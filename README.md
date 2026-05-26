@@ -1,4 +1,4 @@
-**Loan Default Prediction System using Python**
+## Loan Default Prediction System using Python
 
 ## Project Description
 
